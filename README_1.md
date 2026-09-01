@@ -14,8 +14,8 @@ The tasks trace the same problem across three stages of the project:
 | Document | Stage | What it covers |
 | --- | --- | --- |
 | [Task 1 – Cybersecurity Problem Proposal](Task1_Cybersecurity_Problem_Proposal.md) | Before | Defines the cybersecurity problem, proposes a control, and scopes the project. |
-| [Task 2 – Project Proposal](Task2_Project_Proposal_FINAL.md) | During (the plan) | Full project proposal: risk assessment, technical solution, standards alignment, cost, timeline, and implementation plan. |
-| [Task 3 – Technical Report](Task3_Technical_Report_FINAL.md) | After (the results) | Reports on the completed implementation: results, residual risks, monitoring/maintenance plan, and recommendations. |
+| [Task 2 – Project Proposal](Task2_Project_Proposal.md) | During (the plan) | Full project proposal: risk assessment, technical solution, standards alignment, cost, timeline, and implementation plan. |
+| [Task 3 – Technical Report](Task3_Technical_Report.md) | After (the results) | Reports on the completed implementation: results, residual risks, monitoring/maintenance plan, and recommendations. |
 
 ## Tools referenced
 
